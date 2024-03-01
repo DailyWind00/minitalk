@@ -7,6 +7,6 @@ The server display his PID and wait for a message to display from the client
 
 The message is sent using only SIGUSR1 & SIGUSR2 as binary
 
-- ![](client_binary_signal.PNG)
+![](client_binary_signal.PNG)
 
 - ![minitalk subject](fr.minitalk.subject.pdf)
